@@ -11,7 +11,7 @@ Highlights & strengths
 - **Collaboration:** Code reviews, mentoring, and cross-team communication.
 
 This repository — Legal Chat App
-- **What it is:** A minimal legal assistant web app demonstrating end-to-end design: prompt templates, a backend service, and a simple chat UI.
+- **What it is:** A grounded legal assistant web app demonstrating end-to-end design: prompt templates, a backend service, and a chat UI.
 - **Key files:**
   - `legal_app.py` — app entrypoint (Flask server)
   - `prompt_template.py` — templated prompts used by the assistant
