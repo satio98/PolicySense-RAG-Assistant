@@ -16,7 +16,7 @@ This repository — Legal Chat App
   - `legal_app.py` — app entrypoint (Flask server)
   - `prompt_template.py` — templated prompts used by the assistant
   - `templates/chat.html` — front-end demo UI
-  - 'data' — folder containing all the data the source is grounded from. 
+  - `data` — folder containing all the data the source is grounded from. 
 - **Why it matters:** Shows architecture decisions (separation of concerns), prompt-driven logic, and a deployable web demo.
 
 Quick run (local)
